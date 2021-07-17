@@ -1,0 +1,8 @@
+Introduction to algorithms
+https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf
+Database Management System
+https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf
+Computer Networks (Andrew S. Tanenbaum)
+https://theswissbay.ch/pdf/Gentoomen%20Library/Networking/Prentice%20Hall%20-%20Computer%20Networks%20Tanenbaum%204ed.pdf
+Operating Systems
+https://www.vssut.ac.in/lecture_notes/lecture1423726024.pdf

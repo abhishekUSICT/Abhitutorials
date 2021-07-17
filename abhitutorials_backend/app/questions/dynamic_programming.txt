@@ -1,0 +1,18 @@
+0-1 Knapsack
+https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+Coin Change
+https://www.geeksforgeeks.org/coin-change-dp-7/
+Maximum product of an increasing subsequence
+https://www.geeksforgeeks.org/maximum-product-increasing-subsequence/
+Longest Common Subsequence
+https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+Program for nth Catalan Number
+https://www.geeksforgeeks.org/program-nth-catalan-number/
+Cutting a Rod
+https://www.geeksforgeeks.org/cutting-a-rod-dp-13/
+Maximum sum Bi-tonic Sub-sequence
+https://www.geeksforgeeks.org/maximum-sum-bi-tonic-sub-sequence/
+Maximum Sum Increasing Subsequence
+https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/
+Minimum number of jumps to reach end
+https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/

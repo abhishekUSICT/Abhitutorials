@@ -1,0 +1,11 @@
+.examples{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.activ {
+	background-color: #0099cc;
+	color: white;
+	font-weight: bold;
+	border: 0.1rem solid #0099cc;
+}

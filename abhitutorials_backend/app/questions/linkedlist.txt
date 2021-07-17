@@ -1,0 +1,16 @@
+Find the middle of a given linked list
+https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/
+Reverse a linked list
+https://www.geeksforgeeks.org/reverse-a-linked-list/
+Rotate a Linked List
+https://www.geeksforgeeks.org/rotate-a-linked-list/
+Detect loop in a linked list
+https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
+Find length of loop in linked list
+https://www.geeksforgeeks.org/find-length-of-loop-in-linked-list/
+Swap nodes in a linked list without swapping data
+https://www.geeksforgeeks.org/swap-nodes-in-a-linked-list-without-swapping-data/
+Intersection of two Sorted Linked Lists
+https://www.geeksforgeeks.org/intersection-of-two-sorted-linked-lists/
+Nth node from the end of a linked list
+https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/

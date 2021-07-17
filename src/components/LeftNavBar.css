@@ -1,0 +1,25 @@
+.leftnavbar {
+	height: 100%;
+	width: 17rem;
+	background-color: black;
+}
+
+.cslogo {
+	display: block;
+	margin:auto;
+	width: 70%;
+	margin-top:2rem;
+	margin-bottom:2rem;
+}
+
+.nav-link {
+	margin-top: 10rem;
+	margin-left: 2rem;
+	color: white;
+	text-decoration: none;
+}
+
+.text-style {
+	font-size: 1.4rem;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
