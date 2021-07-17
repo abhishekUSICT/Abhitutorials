@@ -1,0 +1,87 @@
+.paragraph{
+	font-family: Calibri;
+	font-size: 128%;
+	line-height: 1.4;
+}
+
+.tab-background {
+	background-color: #0099cc;
+}
+
+.question-name{
+	align-self: center;
+	margin-left: 2rem;
+}
+
+.question-link {
+	margin-left: auto;
+	margin-right: 2rem;
+	color: white;
+	font-family: Calibri;
+	background-color: #004466;
+	width: 3rem;
+	height: 1.2rem;
+	align-content: center;
+	align-self: center;
+	padding: 0.5rem;
+}
+
+.question {
+	width: 100%;
+	height: 3rem;
+	background-color: #0099cc;
+	color: white;
+	display: flex;
+	font-family: Calibri;
+	flex-direction: row;
+	margin-top: 0.5rem;
+	border-style: groove;
+}
+
+.topbar {
+	width: 100%;
+	height: 5rem;
+	background-color: #0099cc;
+	font-family: Calibri;
+}
+
+.tabs {
+	background-color: white;
+	margin: 2rem;
+	padding: 0.7rem;
+	cursor: pointer;
+	color: #0099cc;
+	font-weight: bold;
+	font-size: 120%;
+	border: 0.1rem solid #0099cc;
+}
+
+.topheading {
+	text-align: center;
+	padding-top: 0.7rem;
+	color: white;
+	font-size: 280%;
+	width: 100%;
+}
+
+.sub-heading {
+	color: #0066ff;
+	text-transform: uppercase;
+	font-family: Calibri;
+	font-size: 160%;
+	text-shadow: 0.03rem 0.03rem;
+}
+
+.background {
+	background-color: #0099cc;
+}
+
+.layout{
+	margin-left: 2rem;
+	margin-right: 2rem;
+	height: 100%;
+}
+
+.topline {
+	font-weight: 700;
+}

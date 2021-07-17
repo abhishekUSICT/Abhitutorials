@@ -1,0 +1,14 @@
+Evaluation of Postfix Expression
+https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/
+Next Greater Element
+https://www.geeksforgeeks.org/next-greater-element/
+Implement Stack using Queues
+https://www.geeksforgeeks.org/implement-stack-using-queue/
+Implement k stacks in a single array
+https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/
+Prefix to Postfix Conversion
+https://www.geeksforgeeks.org/prefix-postfix-conversion/
+The Stock Span Problem
+https://www.geeksforgeeks.org/the-stock-span-problem/
+Next Greater Element
+https://www.geeksforgeeks.org/next-greater-element/
